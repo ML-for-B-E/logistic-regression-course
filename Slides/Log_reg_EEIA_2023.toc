@@ -1,0 +1,6 @@
+\babel@toc {french}{}\relax 
+\beamer@sectionintoc {2}{Motivation}{2}{0}{1}
+\beamer@sectionintoc {3}{Classification: Modèles de probabilité}{13}{0}{2}
+\beamer@sectionintoc {4}{Estimation du modèle de Reg. Log.}{31}{0}{3}
+\beamer@sectionintoc {5}{Classification ML en pratique}{42}{0}{4}
+\beamer@sectionintoc {6}{Qualité/performance}{44}{0}{5}
